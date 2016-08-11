@@ -1,0 +1,23 @@
+{
+  "name": "oddjobs-backend",
+  "version": "0.1.0",
+  "description": "OddJobs backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://exp3rt1@bitbucket.org/vivanet/oddjobs-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/vivanet/oddjobs-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "jsonwebtoken": "^5.7.0",
+    "mongoose": "^4.4.13",
+    "password-hash": "^1.2.2"
+  }
+}
